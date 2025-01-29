@@ -15,7 +15,7 @@ jobs:
           - tag: "23.05.5"
             pkgarch: aarch64_cortex-a53
             target: qualcommax
-            subtarget: qualcommax
+            subtarget: ipq807x
             vermagic: "24e7ba3bd68638bb68cdd123ed5f88af-r1"
 
     steps:
